@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaCuentasCorrientes.Vista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2747ba3e11d1e2f43a68cad2751bb80de8e7fb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaCuentasCorrientes.Vista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaCuentasCorrientes.Vista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
