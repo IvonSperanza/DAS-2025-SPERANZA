@@ -200,7 +200,7 @@ namespace SistemaCuentasCorrientes.Vista
                 var cuentasDisplay = cuentas.Select(c => new
                 {
                     c.Id,
-                    Cliente = c.Cliente.NombreCompleto,
+                    Cliente = $"{c.Cliente.Nombre} {c.Cliente.Apellido}",
                     FechaApertura = c.FechaApertura.ToString("dd/MM/yyyy"),
                     Saldo = c.SaldoActual.ToString("C")
                 }).ToList();
@@ -409,6 +409,11 @@ namespace SistemaCuentasCorrientes.Vista
             txtDescripcion.Clear();
             txtMonto.Clear();
             txtDescripcion.Focus();
+        }
+
+        private void FormCuentas_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

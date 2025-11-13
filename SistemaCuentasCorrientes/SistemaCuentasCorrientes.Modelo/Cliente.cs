@@ -12,5 +12,7 @@ namespace SistemaCuentasCorrientes.Modelo
 
         // Relación: Un cliente tiene muchas cuentas
         public virtual ICollection<CuentaCorriente> CuentasCorrientes { get; set; }
+        public string NombreCompleto => $"{Nombre} {Apellido}";
+
     }
 }

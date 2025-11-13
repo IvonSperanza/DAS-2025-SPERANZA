@@ -1,9 +1,15 @@
-﻿public static class DbHelper
+﻿using Microsoft.EntityFrameworkCore;
+using SistemaCuentasCorrientes.Modelo;
+
+namespace SistemaCuentasCorrientes.Controlador
 {
-    public static DbContextOptions<CuentasCorrientesContext> GetOptions()
+    public static class DbHelper
     {
-        var optionsBuilder = new DbContextOptionsBuilder<CuentasCorrientesContext>();
-        optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=CuentasCorrientesDB;Trusted_Connection=True;");
-        return optionsBuilder.Options;
+        public static DbContextOptions<CuentasCorrientesContext> GetOptions()
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<CuentasCorrientesContext>();
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=CuentasCorrientesDB;Trusted_Connection=True;");
+            return optionsBuilder.Options;
+        }
     }
 }

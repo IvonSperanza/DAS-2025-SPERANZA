@@ -16,8 +16,4 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\SistemaCuentasCorrientes.Controlador\SistemaCuentasCorrientes.Controlador.csproj" />
-  </ItemGroup>
 </Project>
