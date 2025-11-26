@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,14 +77,6 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormPrincipal.cs",
@@ -92,7 +84,7 @@
               "RelativeDocumentMoniker": "SistemaCuentasCorrientes.Vista\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\isperanza\\Desktop\\DAS-2025-SPERANZA\\SistemaCuentasCorrientes\\SistemaCuentasCorrientes.Vista\\FormPrincipal.cs",
               "RelativeToolTip": "SistemaCuentasCorrientes.Vista\\FormPrincipal.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswEoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0oAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T02:11:59.497Z",
               "EditorCaption": ""
@@ -196,6 +188,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isperanza\\Desktop\\DAS-2025-SPERANZA\\SistemaCuentasCorrientes\\SistemaCuentasCorrientes.Vista\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaCuentasCorrientes.Vista\\Program.cs",
+              "ToolTip": "C:\\Users\\isperanza\\Desktop\\DAS-2025-SPERANZA\\SistemaCuentasCorrientes\\SistemaCuentasCorrientes.Vista\\Program.cs",
+              "RelativeToolTip": "SistemaCuentasCorrientes.Vista\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:34:47.794Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\isperanza\\Desktop\\DAS-2025-SPERANZA\\SistemaCuentasCorrientes\\SistemaCuentasCorrientes.Vista\\FormPrincipal.cs",
@@ -226,18 +238,6 @@
               "RelativeToolTip": "SistemaCuentasCorrientes.Vista\\FormCuentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T23:50:42.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isperanza\\Desktop\\DAS-2025-SPERANZA\\SistemaCuentasCorrientes\\SistemaCuentasCorrientes.Vista\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaCuentasCorrientes.Vista\\Program.cs",
-              "ToolTip": "C:\\Users\\isperanza\\Desktop\\DAS-2025-SPERANZA\\SistemaCuentasCorrientes\\SistemaCuentasCorrientes.Vista\\Program.cs",
-              "RelativeToolTip": "SistemaCuentasCorrientes.Vista\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T05:34:47.794Z"
             }
           ]
         }
